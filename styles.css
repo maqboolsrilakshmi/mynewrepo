@@ -1,0 +1,8 @@
+.box {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 20px auto; /* Top/Bottom 20px, Left/Right auto (centers horizontally) */
+    border: 5px solid darkblue;
+    padding: 15px; /* Space between content and border */
+}
